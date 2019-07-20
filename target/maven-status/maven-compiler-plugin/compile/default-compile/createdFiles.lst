@@ -1,0 +1,3 @@
+com\xywei\spring\boot\helloworld_starter\HelloworldProperties.class
+com\xywei\spring\boot\helloworld_starter\HelloworldAutoConfiguration.class
+com\xywei\spring\boot\helloworld_starter\HelloworldService.class
